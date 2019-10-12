@@ -1,2 +1,2 @@
-# TicTacToe_JAVA 1.0 
+# TicTacToe_Java 1.0 
  
